@@ -1,3 +1,4 @@
+
 .a{
 	margin-left: 15%;
 	margin-right:15%;
@@ -57,4 +58,20 @@ a:hover{
 .highlights{
 	font-weight: bolder;
 	color:#43464B;
+}
+footer{
+	background-color: #43464B;
+	padding-top:3%;
+	padding-bottom:1%;
+	color:white;
+	padding-top:1%;
+	padding-left: 2%;
+	margin-bottom: 1rem;
+}
+.contact{
+	color:white;
+}
+.footer-content{
+	padding-top:2%; 
+	padding-left:1%;
 }
